@@ -1,0 +1,12 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+Share Purchase Agreement - Acquisition of Zenith Exports Pvt Ltd by Orion Holdings
+
+Clause 1. Parties. Orion Holdings (the Buyer) acquires 100 percent of Zenith Exports Pvt Ltd, a wholly owned subsidiary of Zenith Pharma Ltd (the Seller).
+
+Clause 2. Purchase Price. The enterprise value is INR 850 crore, subject to a valuation report under the Companies Act 2013 by a registered valuer.
+
+Clause 3. Indemnity. The Seller shall indemnify the Buyer for pre-closing tax liabilities, including any ISD credit disallowance and transfer pricing penalties, capped at INR 120 crore with a basket threshold of INR 2 crore.
+
+Clause 4. Material Adverse Change. A MAC includes any adverse regulatory action reducing EBITDA by more than 15 percent. The Buyer may terminate before closing if a MAC occurs.
+
+Clause 5. FEMA Compliance. As Orion Holdings is a foreign investor, the transaction requires compliance with FEMA non-debt instrument rules and filing of Form FC-TRS within 60 days.

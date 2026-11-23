@@ -1,0 +1,12 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+RBI Master Direction - Know Your Customer (KYC) and PMLA Compliance
+
+Para 1. Customer Due Diligence. Regulated Entities such as Zenith Finance Ltd must complete Customer Due Diligence (CDD) before account opening, as required by Rule 9 of the PML Rules.
+
+Para 2. Enhanced Due Diligence. Enhanced Due Diligence (EDD) applies to politically exposed persons and to high-risk customers, including beneficial owners holding more than 10 percent of a company.
+
+Para 3. Suspicious Transaction Reports. A Suspicious Transaction Report (STR) must be filed with the Financial Intelligence Unit within 7 days of arriving at a conclusion of suspicion.
+
+Para 4. Penalty. The Reserve Bank may impose a monetary penalty of up to INR 1 crore per contravention under Section 47A of the Banking Regulation Act, and Zenith Finance Ltd's Chief Compliance Officer is accountable.
+
+Para 5. Control Mapping. Internal audit control IA-07 (periodic KYC refresh) maps to Para 1, and control IA-11 (STR escalation matrix) maps to Para 3.

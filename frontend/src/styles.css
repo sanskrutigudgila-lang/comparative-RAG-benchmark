@@ -1,0 +1,60 @@
+:root {
+  color-scheme: light;
+  --surface-1: #fcfcfb; --surface-2: #f3f2ef; --border: #dcdad4;
+  --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #6f6d68;
+  --accent: #2a78d6;
+  --series-standard: #2a78d6; --series-hyde: #eb6834; --series-graph: #1baf7a;
+  --danger: #b3261e;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --surface-1: #1a1a19; --surface-2: #242423; --border: #3a3a38;
+    --text-primary: #f0efec; --text-secondary: #c3c2b7; --text-muted: #9c9b93;
+    --accent: #3987e5;
+    --series-standard: #3987e5; --series-hyde: #d95926; --series-graph: #199e70;
+    --danger: #f2b8b5;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; font: 14px/1.5 system-ui, sans-serif; background: var(--surface-1); color: var(--text-primary); }
+header { padding: 14px 24px; border-bottom: 1px solid var(--border); display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; }
+header h1 { font-size: 17px; margin: 0; }
+header .sub { color: var(--text-secondary); font-size: 12px; }
+.badge { font-size: 11px; padding: 2px 8px; border-radius: 10px; background: var(--surface-2); border: 1px solid var(--border); }
+nav { display: flex; gap: 4px; padding: 0 24px; border-bottom: 1px solid var(--border); overflow-x: auto; }
+nav button { background: none; border: 0; border-bottom: 2px solid transparent; padding: 10px 14px; cursor: pointer; color: var(--text-secondary); font: inherit; white-space: nowrap; }
+nav button[aria-selected="true"] { color: var(--text-primary); border-bottom-color: var(--accent); font-weight: 600; }
+main { padding: 20px 24px; max-width: 1280px; margin: 0 auto; }
+.row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+select, input, textarea, button.btn { font: inherit; padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface-1); color: var(--text-primary); }
+button.btn { cursor: pointer; background: var(--accent); color: #fff; border-color: transparent; }
+button.btn.secondary { background: var(--surface-1); color: var(--text-primary); border-color: var(--border); }
+button.btn:disabled { opacity: .5; cursor: not-allowed; }
+.card { border: 1px solid var(--border); border-radius: 8px; padding: 14px; background: var(--surface-1); }
+.grid { display: grid; gap: 12px; }
+.grid.c2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+.grid.c4 { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+.drop { border: 2px dashed var(--border); border-radius: 8px; padding: 18px; text-align: center; color: var(--text-secondary); }
+.drop.over { border-color: var(--accent); background: var(--surface-2); }
+.msg { margin: 10px 0; padding: 10px 12px; border-radius: 8px; background: var(--surface-2); white-space: pre-wrap; }
+.msg.user { background: transparent; border: 1px solid var(--border); }
+.cite { display: inline-block; margin: 2px 4px 2px 0; padding: 1px 8px; font-size: 12px; border-radius: 10px; border: 1px solid var(--border); cursor: pointer; background: var(--surface-1); }
+.err { color: var(--danger); }
+.muted { color: var(--text-muted); font-size: 12px; }
+.kpi .v { font-size: 28px; font-weight: 600; }
+.kpi .l { color: var(--text-secondary); font-size: 12px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+th { color: var(--text-secondary); font-weight: 600; }
+.legend { display: flex; gap: 16px; font-size: 12px; color: var(--text-secondary); margin-bottom: 6px; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; }
+.tip { position: fixed; pointer-events: none; padding: 6px 10px; font-size: 12px; background: var(--surface-1); border: 1px solid var(--border); border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,.18); z-index: 10; }
+.canvas-box { height: 560px; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: #0b0f1a; }
+
+table.matrix th, table.matrix td { vertical-align: top; padding: 10px 12px; }
+table.matrix thead th { border-bottom: 2px solid var(--border); white-space: nowrap; }
+table.matrix tbody th { font-weight: 600; color: var(--text-primary); min-width: 210px; }
+table.matrix .sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; }
+table.matrix .mval { font-size: 18px; font-weight: 700; }
+table.matrix .best { margin-left: 8px; font-size: 11px; padding: 1px 6px; border-radius: 8px; border: 1px solid var(--text-secondary); color: var(--text-secondary); }

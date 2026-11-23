@@ -1,0 +1,7 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+Share Purchase Agreement - Acquisition of Vega Steel Pvt Ltd by Nimbus Logistics Ltd
+Clause 1. Parties. Nimbus Logistics Ltd (the Buyer) acquires 33 percent of Vega Steel Pvt Ltd from its promoters (the Sellers).
+Clause 2. Purchase Price. Enterprise value of INR 345 crore subject to valuation under the Companies Act 2013.
+Clause 3. Indemnity. Sellers indemnify the Buyer for pre-closing liabilities, capped at INR 38 crore with a basket of INR 12 crore.
+Clause 4. Material Adverse Change. A MAC means any event reducing revenue by more than 8 percent; the Buyer may rescind the agreement before closing.
+Clause 5. FEMA Compliance. Foreign investment requires Form FC-TRS within 46 days.

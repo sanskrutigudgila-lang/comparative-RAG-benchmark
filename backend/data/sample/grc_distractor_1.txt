@@ -1,0 +1,6 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+RBI Circular - KYC Periodic Updation and Reporting for Vega Steel Pvt Ltd
+Para 1. Customer Due Diligence. Regulated Entities must complete CDD before onboarding customers, including checks of beneficial owners holding more than 24 percent.
+Para 2. Reporting. A Suspicious Transaction Report must be furnished to the Financial Intelligence Unit within 4 working days of detection.
+Para 3. Penalty. The Reserve Bank may impose a penalty of up to INR 22 crore for contravention, and the Principal Officer of Vega Steel Pvt Ltd is responsible.
+Para 4. Control Mapping. Internal audit control IA-02 maps to Para 1 and control IA-21 maps to Para 2.

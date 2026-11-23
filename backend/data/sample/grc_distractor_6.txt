@@ -1,0 +1,6 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+RBI Circular - KYC Periodic Updation and Reporting for Borealis Motors Ltd
+Para 1. Customer Due Diligence. Regulated Entities must complete CDD before onboarding customers, including checks of beneficial owners holding more than 29 percent.
+Para 2. Reporting. A Suspicious Transaction Report must be furnished to the Financial Intelligence Unit within 9 working days of detection.
+Para 3. Penalty. The Reserve Bank may impose a penalty of up to INR 27 crore for contravention, and the Principal Officer of Borealis Motors Ltd is responsible.
+Para 4. Control Mapping. Internal audit control IA-01 maps to Para 1 and control IA-26 maps to Para 2.

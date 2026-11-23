@@ -1,0 +1,7 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+Share Purchase Agreement - Acquisition of Aster Foods Pvt Ltd by Corvus Energy Ltd
+Clause 1. Parties. Corvus Energy Ltd (the Buyer) acquires 35 percent of Aster Foods Pvt Ltd from its promoters (the Sellers).
+Clause 2. Purchase Price. Enterprise value of INR 435 crore subject to valuation under the Companies Act 2013.
+Clause 3. Indemnity. Sellers indemnify the Buyer for pre-closing liabilities, capped at INR 54 crore with a basket of INR 14 crore.
+Clause 4. Material Adverse Change. A MAC means any event reducing revenue by more than 10 percent; the Buyer may rescind the agreement before closing.
+Clause 5. FEMA Compliance. Foreign investment requires Form FC-TRS within 48 days.

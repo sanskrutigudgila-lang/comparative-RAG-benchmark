@@ -1,0 +1,10 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+CBIC Circular No. 212/2025-GST - Input Service Distributor and E-Invoicing
+
+Rule 1. ISD Registration. Zenith Pharma Ltd, as head office, must register as an Input Service Distributor (ISD) to distribute common input tax credit to Zenith Exports Pvt Ltd under Rule 39 of the CGST Rules.
+
+Rule 2. E-Invoicing Threshold. E-invoicing is mandatory for taxpayers whose aggregate turnover exceeds INR 5 crore in any preceding financial year, as ruled by the 57th GST Council.
+
+Rule 3. Credit Distribution. Credit distributed by the ISD must not exceed the eligible credit, and the Tax Authority may deny excess credit with interest at 18 percent per annum.
+
+Rule 4. Late Reporting. Failure to issue an ISD invoice by the 13th of the following month attracts a penalty of INR 25,000 under Section 122 of the CGST Act.

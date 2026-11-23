@@ -1,0 +1,7 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+Share Purchase Agreement - Acquisition of Lumen Retail Ltd by Borealis Motors Ltd
+Clause 1. Parties. Borealis Motors Ltd (the Buyer) acquires 37 percent of Lumen Retail Ltd from its promoters (the Sellers).
+Clause 2. Purchase Price. Enterprise value of INR 525 crore subject to valuation under the Companies Act 2013.
+Clause 3. Indemnity. Sellers indemnify the Buyer for pre-closing liabilities, capped at INR 70 crore with a basket of INR 16 crore.
+Clause 4. Material Adverse Change. A MAC means any event reducing revenue by more than 13 percent; the Buyer may rescind the agreement before closing.
+Clause 5. FEMA Compliance. Foreign investment requires Form FC-TRS within 50 days.

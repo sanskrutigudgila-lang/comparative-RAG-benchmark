@@ -1,0 +1,11 @@
+[
+ {"id":"s1","type":"simple","practice_area":"tax","q":"What is the e-invoicing turnover threshold?","facts":["INR 5 crore"],"gold_docs":["tax_gst_circular_212.txt"]},
+ {"id":"s2","type":"simple","practice_area":"grc","q":"Within how many days must a Suspicious Transaction Report be filed?","facts":["within 7 days"],"gold_docs":["grc_rbi_kyc_directions.txt"]},
+ {"id":"s3","type":"simple","practice_area":"deals","q":"What is the indemnity cap in the SPA?","facts":["INR 120 crore"],"gold_docs":["deals_spa_zenith_acquisition.txt"]},
+ {"id":"m1","type":"multi_hop","practice_area":"deals","q":"Which tax penalties for the parent of the company being acquired by Orion Holdings are covered by the SPA indemnity, and what is the ISD late-reporting penalty?","facts":["ISD credit disallowance","INR 25,000"],"gold_docs":["deals_spa_zenith_acquisition.txt","tax_gst_circular_212.txt"]},
+ {"id":"m2","type":"multi_hop","practice_area":"tax","q":"What transfer pricing documentation penalty applies to the seller's parent company in the Zenith Exports deal, and when does the lowered threshold take effect?","facts":["2 percent","1 April 2026"],"gold_docs":["tax_cbdt_notification_17.txt","deals_spa_zenith_acquisition.txt"]},
+ {"id":"m3","type":"multi_hop","practice_area":"grc","q":"Which control maps to the STR obligation and who is accountable at Zenith Finance if it is breached?","facts":["IA-11","Chief Compliance Officer"],"gold_docs":["grc_rbi_kyc_directions.txt"]},
+ {"id":"v1","type":"vocab_mismatch","practice_area":"tax","q":"What margin does the tax authority expect on cost for R&D outsourcing by local subsidiaries?","facts":["18 percent"],"gold_docs":["tax_cbdt_notification_17.txt"]},
+ {"id":"v2","type":"vocab_mismatch","practice_area":"deals","q":"When can the acquirer walk away because earnings fall sharply due to a regulator's action?","facts":["15 percent","terminate"],"gold_docs":["deals_spa_zenith_acquisition.txt"]},
+ {"id":"v3","type":"vocab_mismatch","practice_area":"grc","q":"How much can the central bank fine a lender per breach of customer onboarding checks?","facts":["INR 1 crore"],"gold_docs":["grc_rbi_kyc_directions.txt"]}
+]

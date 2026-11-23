@@ -1,0 +1,6 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+RBI Circular - KYC Periodic Updation and Reporting for Lumen Retail Ltd
+Para 1. Customer Due Diligence. Regulated Entities must complete CDD before onboarding customers, including checks of beneficial owners holding more than 28 percent.
+Para 2. Reporting. A Suspicious Transaction Report must be furnished to the Financial Intelligence Unit within 8 working days of detection.
+Para 3. Penalty. The Reserve Bank may impose a penalty of up to INR 26 crore for contravention, and the Principal Officer of Lumen Retail Ltd is responsible.
+Para 4. Control Mapping. Internal audit control IA-06 maps to Para 1 and control IA-25 maps to Para 2.

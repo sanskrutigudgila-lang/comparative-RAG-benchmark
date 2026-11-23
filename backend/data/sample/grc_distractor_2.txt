@@ -1,0 +1,6 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+RBI Circular - KYC Periodic Updation and Reporting for Nimbus Logistics Ltd
+Para 1. Customer Due Diligence. Regulated Entities must complete CDD before onboarding customers, including checks of beneficial owners holding more than 25 percent.
+Para 2. Reporting. A Suspicious Transaction Report must be furnished to the Financial Intelligence Unit within 5 working days of detection.
+Para 3. Penalty. The Reserve Bank may impose a penalty of up to INR 23 crore for contravention, and the Principal Officer of Nimbus Logistics Ltd is responsible.
+Para 4. Control Mapping. Internal audit control IA-03 maps to Para 1 and control IA-22 maps to Para 2.

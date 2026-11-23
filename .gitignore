@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/data/store/
+backend/data/llm_cache/
+backend/data/uploads/
+backend/data/benchmark_results.json
+.env

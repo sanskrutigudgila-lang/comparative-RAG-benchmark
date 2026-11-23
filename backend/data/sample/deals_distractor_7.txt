@@ -1,0 +1,7 @@
+[SYNTHETIC SAMPLE - illustrative only, not real regulatory text]
+Share Purchase Agreement - Acquisition of Sable Chemicals Pvt Ltd by Helix Textiles Ltd
+Clause 1. Parties. Helix Textiles Ltd (the Buyer) acquires 39 percent of Sable Chemicals Pvt Ltd from its promoters (the Sellers).
+Clause 2. Purchase Price. Enterprise value of INR 615 crore subject to valuation under the Companies Act 2013.
+Clause 3. Indemnity. Sellers indemnify the Buyer for pre-closing liabilities, capped at INR 86 crore with a basket of INR 18 crore.
+Clause 4. Material Adverse Change. A MAC means any event reducing revenue by more than 16 percent; the Buyer may rescind the agreement before closing.
+Clause 5. FEMA Compliance. Foreign investment requires Form FC-TRS within 52 days.
