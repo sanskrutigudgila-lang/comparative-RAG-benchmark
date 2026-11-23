@@ -9,3 +9,4 @@ backend/data/llm_cache/
 backend/data/uploads/
 backend/data/benchmark_results.json
 .env
+.claude/
